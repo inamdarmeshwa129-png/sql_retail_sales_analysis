@@ -1,4 +1,4 @@
---Meshwa Inamdar – J00739767
+--Meshwa Inamdar â€“ J00739767
 INSERT INTO Customers VALUES
 (1, 'Meshwa Inam', 'Mobile'),
 (2, 'Anuj Inamdar', 'New Jersey'),
