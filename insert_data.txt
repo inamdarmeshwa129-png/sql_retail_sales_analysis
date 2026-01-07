@@ -1,0 +1,19 @@
+--Meshwa Inamdar – J00739767
+INSERT INTO Customers VALUES
+(1, 'Meshwa Inam', 'Mobile'),
+(2, 'Anuj Inamdar', 'New Jersey'),
+(3, 'Minaxi Patel', 'New York'),
+(4, 'Harsh Patel', 'Chicago');
+
+INSERT INTO Products VALUES
+(101, 'Laptop', 'Electronics', 900),
+(102, 'Phone', 'Electronics', 600),
+(103, 'Headphones', 'Accessories', 150),
+(104, 'Office Chair', 'Furniture', 250);
+
+INSERT INTO Orders VALUES
+(1001, 1, 101, 1, '2025-01-10'),
+(1002, 2, 102, 2, '2025-02-05'),
+(1003, 3, 103, 3, '2025-02-20'),
+(1004, 4, 104, 1, '2025-03-12'),
+(1005, 1, 102, 1, '2025-03-18');
